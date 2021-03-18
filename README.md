@@ -1,0 +1,2 @@
+# mynote
+aplikasi mynote - flutter
